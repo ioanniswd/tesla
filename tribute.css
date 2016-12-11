@@ -1,0 +1,70 @@
+
+
+h1 {
+    margin-top: 42px;
+    margin-bottom: 20px;
+    font-family: Times, monospace;
+    font-size: 500%;
+    font-weight: 200;
+}
+
+h2 {
+    margin-bottom: -47px;
+}
+
+h4 {
+    font-size: 200%;    
+}
+
+.well {
+    margin-top: 60px;
+    background-color: rgba(211, 211, 211, 0.8);
+}
+
+/*
+.container-fluid {    
+    background-color: gray;
+}
+*/
+
+#main-area {
+    padding-top: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 1px;
+    background-color: white;
+}
+
+#pic-text {
+    margin-top: 9px;
+    
+  
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.date {
+	font-weight: bold;
+}
+
+#time-line {
+    margin-top: 70px;
+}
+
+blockquote {
+    margin-top: 26px;
+}
+
+#wiki {
+    font-size: 23px;
+}
+#quote {
+    font-size: 22px;
+}
+
+#more {
+    
+}
